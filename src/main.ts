@@ -1,6 +1,5 @@
-import './style.css';
-
 import * as lodash from 'lodash';
+import './style.css';
 
 const names = ['Anna', 'Ben', 'Suzy'];
 const names2 = ['Steven', 'Marc', 'Suzy'];
